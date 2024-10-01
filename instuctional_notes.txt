@@ -1,0 +1,7 @@
+- ensure node.js is installed
+- confirm version with node -v
+- Create a new react application npm create vite@latest frontend -- --template react   (you can replace the name frontend with whatever you want your frontend folder to be called)
+- Run commands:
+	  cd frontend
+ 	 npm install
+  	npm run dev
